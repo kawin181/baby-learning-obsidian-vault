@@ -1,0 +1,31 @@
+schedule:
+  time: "06:00"
+  topics_per_day: 3
+
+sources:
+  priority:
+    - WHO
+    - AAP
+    - Mayo Clinic
+    - NHS
+    - PubMed
+    - Thai medical guidelines
+  min_sources_per_topic: 2
+
+content:
+  age_range: "0-3 months"
+  language:
+    wiki: "english"
+    script: "thai"
+  script_formats:
+    rotate: true
+    formats: [hook-content-cta, storytelling, qa-mythbusting]
+
+persona:
+  role: "General Practitioner"
+  background: ["Health Informatics", "MBA", "Data Analyst"]
+  company: "Telemedicine"
+  tone: "evidence-based, approachable, data-driven"
+
+obsidian:
+  vault_path: "C:/Users/wongt/Desktop/Baby_learning"
