@@ -86,3 +86,5 @@ Tummy Time คือการวางลูกในท่าคว่ำ **เ
 - Room-sharing ลด SIDS 50% — ข้อมูลนี้มาจาก epidemiologic studies cited ใน AAP 2022
 - G6PD deficiency ยังไม่เกี่ยวใน topic นี้ — เก็บไว้สำหรับ script เรื่อง Jaundice
 - เน้นย้ำ: Tummy Time เมื่อตื่นนอนและมีคนดูเท่านั้น — ไม่ใช่ตอนนอนหลับ
+  
+  test push 
