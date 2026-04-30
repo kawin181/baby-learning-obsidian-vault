@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scripts/2026-04-29-breastfeeding-basics.md",
+                "file": "scripts/2026-04-30-tummy-time.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-29-breastfeeding-basics"
+              "title": "2026-04-30-tummy-time"
             }
           }
         ],
@@ -199,15 +199,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5c4922e1938d1c1e",
+  "active": "e01fa434bb086705",
   "lastOpenFiles": [
+    "short-clip/tummy-time/tts-script.md",
+    "short-clip/tummy-time/07-newborn-twins.jpg",
+    "short-clip/tummy-time/07-baby-crib.jpg",
+    "short-clip/tummy-time/06-infant-motor-play.jpg",
+    "short-clip/tummy-time/05-parent-holding-baby.jpg",
+    "short-clip/tummy-time/04-newborn-face.jpg",
+    "short-clip/tummy-time/03-development-stages.jpg",
+    "short-clip/tummy-time/02-baby-sleeping-back.jpg",
+    "short-clip/tummy-time/01-tummy-time.jpg",
+    "short-clip/tummy-time",
+    "short-clip",
+    "scripts/2026-04-30-newborn-immunizations.md",
+    "scripts/2026-04-30-newborn-weight-gain.md",
+    "scripts/2026-04-30-tummy-time.md",
+    "scripts/2026-04-30-formula-feeding-basics.md",
+    "scripts/2026-04-30-baby-crying-soothing.md",
+    "scripts/2026-04-30-baby-gas-burping.md",
+    "scripts/2026-04-29-breastfeeding-basics.md",
     "logs/2026-04-30.md.tmp.56068.1777552093374",
     "_index.md.tmp.56068.1777551373914",
     "_index.md.tmp.56068.1777551247312",
     "_index.md.tmp.56068.1777551121839",
-    "scripts/2026-04-30-baby-crying-soothing.md",
-    "scripts/2026-04-30-formula-feeding-basics.md",
-    "scripts/2026-04-30-newborn-weight-gain.md",
     "wiki/baby-crying-soothing.md",
     "wiki/formula-feeding-basics.md",
     "wiki/newborn-weight-gain.md",
@@ -220,18 +235,14 @@
     "raw/2026-04-30-formula-feeding-basics-aap-healthychildren.md.tmp.56068.1777549244720",
     "raw/2026-04-30-newborn-weight-gain-aap-who.md",
     "raw/2026-04-30-newborn-weight-gain-medical-news-today.md",
-    "scripts/2026-04-30-newborn-immunizations.md",
-    "scripts/2026-04-30-tummy-time.md",
     "wiki/newborn-immunizations.md",
     "wiki/tummy-time.md",
-    "scripts/2026-04-30-baby-gas-burping.md",
     "inbox.md.tmp.56068.1777548146611",
     "raw/2026-04-30-newborn-immunizations-cdc.md",
     "raw/2026-04-30-newborn-immunizations-aap.md",
     "raw/2026-04-30-tummy-time-mayo-clinic.md",
     "raw/2026-04-30-tummy-time-aap.md",
     "wiki/baby-gas-burping.md",
-    "raw/2026-04-30-baby-gas-burping-mayo-clinic.md",
-    "raw/2026-04-30-baby-gas-burping-aap.md"
+    "raw/2026-04-30-baby-gas-burping-mayo-clinic.md"
   ]
 }

@@ -124,6 +124,83 @@ Check the most recent files in `scripts/` to see which format was last used.
 Rotate to the next format in this cycle:
 hook-content-cta → storytelling → qa-mythbusting → hook-content-cta → ...
 
+---
+
+#### 3e. Produce Short Clip Package
+
+After writing the script, create a short-clip package for this topic.
+Output folder: `short-clip/{topic-slug}/`
+
+**3e-i. Write TTS Script**
+
+Read `scripts/YYYY-MM-DD-{topic-slug}.md` and `wiki/{topic-slug}.md`.
+Write a clean spoken-word script in Thai — pure speech only, no section headers, no markdown formatting.
+
+Rules:
+- Target length: 60–90 seconds (~150–225 words at Thai speaking pace)
+- No labels such as Hook, CTA, เนื้อหาหลัก, etc. — the text flows as one continuous speech
+- Keep Thai language throughout; English medical loanwords are fine (same rule as 3d)
+- Tone: warm, evidence-based GP speaking directly to a new Thai father
+- End naturally (no explicit CTA — keep it for short-form)
+- Embed image cue markers inline as `[IMG-01]`, `[IMG-02]` … at natural visual transition points
+
+Filename: `short-clip/{topic-slug}/tts-script.md`
+
+    ---
+    title: "{Thai title}"
+    type: tts-script
+    duration: "60-90s"
+    topic_slug: "{topic-slug}"
+    source_script: "[[scripts/YYYY-MM-DD-{topic-slug}]]"
+    source_wiki: "[[wiki/{topic-slug}]]"
+    date: "YYYY-MM-DD"
+    ---
+
+    {pure Thai speech — 150-225 words — with [IMG-01] … [IMG-10] cue markers inline}
+
+    ---
+
+    ## Image Cues
+    | # | Marker | File | Description |
+    |---|--------|------|-------------|
+    | 1 | [IMG-01] | 01-{desc}.jpg | {what should be on screen} |
+    | 2 | [IMG-02] | 02-{desc}.jpg | … |
+
+    ## Attribution
+    | File | Author | License | Source |
+    |------|--------|---------|--------|
+    | 01-{desc}.jpg | {author} | {CC-BY-SA 4.0 / CC0 / …} | {Wikimedia URL} |
+
+**3e-ii. Find and Download Images**
+
+Search Wikimedia Commons (free public API — no key required):
+
+Step 1 — Search for candidate images (run for each keyword variation):
+```
+WebFetch: https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch={keyword}&srnamespace=6&format=json&srlimit=15
+```
+Use 2–3 keyword searches in English (e.g. "newborn breastfeeding", "infant latch", "baby sleeping safe").
+Collect 15–20 candidate filenames.
+
+Step 2 — Get download URL + license for each candidate:
+```
+WebFetch: https://commons.wikimedia.org/w/api.php?action=query&titles=File:{filename}&prop=imageinfo&iiprop=url|extmetadata&format=json
+```
+From `extmetadata` extract: `LicenseShortName`, `Artist`, `ObjectName`.
+Accept licenses: CC0, CC-BY, CC-BY-SA (any version). Skip: CC-BY-NC, restricted, unknown.
+
+Step 3 — Select 6–10 best images that visually match the video content (variety of scenes).
+
+Step 4 — Download each image:
+```bash
+curl -L -o "short-clip/{topic-slug}/01-{desc}.jpg" "{image_url}"
+```
+Name files sequentially: `01-{short-desc}.jpg`, `02-{short-desc}.jpg`, …
+Keep description slug short (max 3 words, hyphens, lowercase, English).
+
+If Wikimedia search returns fewer than 6 suitable images, fill remaining slots by recording
+the best-match URLs found (don't download) in the Attribution table with note "URL only — verify before use".
+
 Filename: `scripts/YYYY-MM-DD-{topic-slug}.md`
 
 **PERSONA for all scripts:**
@@ -197,6 +274,7 @@ Edit `_index.md`:
 - Add new wiki links under `## 🗂 Wiki Topics`, organized by category
   (categories: Sleep & Rest, Feeding, Development, Health & Safety, Hygiene)
 - Add new script links under `## 🎬 Scripts` with Thai title
+- Add new short-clip links under `## 🎬 Short Clips` with Thai title and image count
 - Update the "Last updated" timestamp at the bottom
 
 ---
@@ -216,6 +294,7 @@ Create `logs/YYYY-MM-DD.md`:
     - raw: {n} files
     - wiki: {n} files
     - scripts: {n} files
+    - short-clip: {n} folders ({total images} images downloaded)
 
     ## Skipped (duplicate)
     - {none, or list topics that were already in wiki/}
