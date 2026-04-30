@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scripts/2026-04-29-newborn-safe-sleep.md",
+                "file": "scripts/2026-04-29-breastfeeding-basics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-29-newborn-safe-sleep"
+              "title": "2026-04-29-breastfeeding-basics"
             }
           }
         ],
@@ -201,6 +201,7 @@
   },
   "active": "5c4922e1938d1c1e",
   "lastOpenFiles": [
+    "scripts/2026-04-29-newborn-safe-sleep.md",
     "wiki/newborn-jaundice.md",
     "wiki/newborn-safe-sleep.md",
     "wiki/breastfeeding-basics.md",

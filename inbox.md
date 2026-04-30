@@ -12,3 +12,6 @@ If Pending is empty, Claude auto-selects topics not already in `wiki/`.
 - ~~Newborn Safe Sleep~~
 - ~~Breastfeeding Basics~~
 - ~~Newborn Jaundice~~
+- ~~Umbilical Cord Care~~
+- ~~Infant Colic~~
+- ~~Newborn Skin Care & Baby Bath~~
