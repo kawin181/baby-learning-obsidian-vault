@@ -15,3 +15,6 @@ If Pending is empty, Claude auto-selects topics not already in `wiki/`.
 - ~~Umbilical Cord Care~~
 - ~~Infant Colic~~
 - ~~Newborn Skin Care & Baby Bath~~
+- ~~Baby Gas & Burping Techniques~~
+- ~~Tummy Time~~
+- ~~Newborn Immunizations~~
