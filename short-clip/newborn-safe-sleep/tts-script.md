@@ -37,12 +37,15 @@ C คือ Crib หรือพื้นที่นอนที่แน่น
 
 ## Attribution
 
-| File | Author | License | Source URL | Status |
-|------|--------|---------|------------|--------|
-| 01-baby-sleeping-back.jpg | Stephanie Pratt | CC0 | https://commons.wikimedia.org/wiki/File:Sleeping-baby_(cropped).jpg | URL only — retry later |
-| 02-safe-sleep-firm-surface.jpg | NIH Image Gallery | Public domain | https://commons.wikimedia.org/wiki/File:Safe_Infant_Sleep_Tip_Firm_Flat_Surface_(44707786394).jpg | URL only — retry later |
-| 03-safe-sleep-no-toys.jpg | NIH Image Gallery | Public domain | https://commons.wikimedia.org/wiki/File:Safe_to_Sleep_Tip_No_Toys_(44707786624).jpg | URL only — retry later |
-| 04-sids-awareness.jpg | NIH Image Gallery | Public domain | https://commons.wikimedia.org/wiki/File:Safe_Infant_Sleep_for_SIDS_Awareness_Month_(48842727393).jpg | URL only — retry later |
-| 05-safe-sleep-back.jpg | NIH Image Gallery | Public domain | https://commons.wikimedia.org/wiki/File:Safe_to_Sleep_Tip_Place_Baby_on_Back_(44707780804).jpg | URL only — retry later |
+| File | Author | License | Pixabay URL |
+|------|--------|---------|-------------|
+| 01-baby.jpg | Virvoreanu-Laurentiu | Pixabay License (free) | https://pixabay.com/photos/2032302/ |
+| 02-baby.jpg | ddimitrova | Pixabay License (free) | https://pixabay.com/photos/1151351/ |
+| 03-baby.jpg | bongbabyhousevn | Pixabay License (free) | https://pixabay.com/photos/8056153/ |
+| 04-baby.jpg | bongbabyhousevn | Pixabay License (free) | https://pixabay.com/photos/7486419/ |
+| 05-baby.jpg | JillWellington | Pixabay License (free) | https://pixabay.com/photos/7388054/ |
+| 06-baby.jpg | bongbabyhousevn | Pixabay License (free) | https://pixabay.com/photos/8061294/ |
+| 07-baby.jpg | bongbabyhousevn | Pixabay License (free) | https://pixabay.com/photos/9280577/ |
+| 08-father.jpg | PublicDomainPictures | Pixabay License (free) | https://pixabay.com/photos/22194/ |
 
-> Images marked "URL only" — run download-images.py when Wikimedia rate limit resets.
+> Pixabay License: free for commercial & non-commercial use, no attribution required.

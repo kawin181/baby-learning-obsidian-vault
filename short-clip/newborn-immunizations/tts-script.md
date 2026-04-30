@@ -35,13 +35,15 @@ date: "2026-04-30"
 
 ## Attribution
 
-| File | Author | License | Source URL | Status |
-|------|--------|---------|------------|--------|
-| 01-newborn-hospital.jpg | — | — | https://commons.wikimedia.org/wiki/Category:Newborns | URL only — retry later |
-| 02-vaccine-schedule.jpg | CDC | Public domain | https://commons.wikimedia.org/wiki/Category:Vaccination_schedules | URL only — retry later |
-| 03-infant-injection.jpg | — | — | https://commons.wikimedia.org/wiki/Category:Vaccinations_of_infants | URL only — retry later |
-| 04-vaccine-science.jpg | — | — | https://commons.wikimedia.org/wiki/Category:Vaccines | URL only — retry later |
-| 05-baby-after-vaccine.jpg | — | — | https://commons.wikimedia.org/wiki/Category:Vaccinations_of_infants | URL only — retry later |
-| 06-pediatric-clinic.jpg | — | — | https://commons.wikimedia.org/wiki/Category:Pediatrics | URL only — retry later |
+| File | Author | License | Pixabay URL |
+|------|--------|---------|-------------|
+| 01-injection.jpg | Gedesby1989 | Pixabay License (free) | https://pixabay.com/photos/4964903/ |
+| 02-vaccination.jpg | kfuhlert | Pixabay License (free) | https://pixabay.com/photos/1215279/ |
+| 03-teddy-bear.jpg | neelam279 | Pixabay License (free) | https://pixabay.com/photos/6937567/ |
+| 04-vaccination.jpg | WikiImages | Pixabay License (free) | https://pixabay.com/photos/67477/ |
+| 05-injection.jpg | Bru-nO | Pixabay License (free) | https://pixabay.com/photos/1574486/ |
+| 06-teddy-bear.jpg | neelam279 | Pixabay License (free) | https://pixabay.com/photos/6937568/ |
+| 07-vaccination.jpg | whitesession | Pixabay License (free) | https://pixabay.com/photos/2722937/ |
+| 08-syringe.jpg | MasterTux | Pixabay License (free) | https://pixabay.com/photos/5904302/ |
 
-> Run download-images.py to fetch images when Wikimedia rate limit resets.
+> Pixabay License: free for commercial & non-commercial use, no attribution required.

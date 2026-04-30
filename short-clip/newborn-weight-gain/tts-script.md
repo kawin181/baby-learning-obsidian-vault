@@ -35,13 +35,15 @@ date: "2026-04-30"
 
 ## Attribution
 
-| File | Author | License | Source URL | Status |
-|------|--------|---------|------------|--------|
-| 01-newborn-weighing.jpg | — | — | https://commons.wikimedia.org/wiki/Category:Weighing_of_newborns | URL only — retry later |
-| 02-baby-scale.jpg | — | — | https://commons.wikimedia.org/wiki/Category:Weighing_of_newborns | URL only — retry later |
-| 03-growing-baby.jpg | — | — | https://commons.wikimedia.org/wiki/Category:Infants | URL only — retry later |
-| 04-growth-chart.jpg | WHO | Public domain | https://commons.wikimedia.org/wiki/Category:Child_growth | URL only — retry later |
-| 05-diaper-wet.jpg | — | — | https://commons.wikimedia.org/wiki/Category:Diapers | URL only — retry later |
-| 06-mother-child-health.jpg | — | — | https://commons.wikimedia.org/wiki/Category:Infant_care | URL only — retry later |
+| File | Author | License | Pixabay URL |
+|------|--------|---------|-------------|
+| 01-dog.jpg | No-longer-here | Pixabay License (free) | https://pixabay.com/photos/316991/ |
+| 02-baby.jpg | bongbabyhousevn | Pixabay License (free) | https://pixabay.com/photos/8056153/ |
+| 03-baby.jpg | jelly | Pixabay License (free) | https://pixabay.com/photos/200760/ |
+| 04-baby.jpg | bongbabyhousevn | Pixabay License (free) | https://pixabay.com/photos/7486419/ |
+| 05-baby.jpg | PublicDomainPictures | Pixabay License (free) | https://pixabay.com/photos/21249/ |
+| 06-baby.jpg | bongbabyhousevn | Pixabay License (free) | https://pixabay.com/photos/8061294/ |
+| 07-newborn.jpg | bongbabyhousevn | Pixabay License (free) | https://pixabay.com/photos/6467762/ |
+| 08-newborn-photography.jpg | bongbabyhousevn | Pixabay License (free) | https://pixabay.com/photos/9292504/ |
 
-> Run download-images.py to fetch images when Wikimedia rate limit resets.
+> Pixabay License: free for commercial & non-commercial use, no attribution required.

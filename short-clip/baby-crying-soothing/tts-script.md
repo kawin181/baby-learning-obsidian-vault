@@ -35,13 +35,15 @@ date: "2026-04-30"
 
 ## Attribution
 
-| File | Author | License | Source URL | Status |
-|------|--------|---------|------------|--------|
-| 01-crying-newborn.jpg | — | — | https://commons.wikimedia.org/wiki/Category:Crying_infants | URL only — retry later |
-| 02-check-diaper.jpg | — | — | https://commons.wikimedia.org/wiki/Category:Diaper_changing | URL only — retry later |
-| 03-swaddled-baby.jpg | — | — | https://commons.wikimedia.org/wiki/Category:Swaddled_babies | URL only — retry later |
-| 04-soothing-baby.jpg | — | — | https://commons.wikimedia.org/wiki/Category:Infant_care | URL only — retry later |
-| 05-skin-to-skin.jpg | — | — | https://commons.wikimedia.org/wiki/Category:Kangaroo_care | URL only — retry later |
-| 06-baby-in-crib.jpg | — | — | https://commons.wikimedia.org/wiki/Category:Cribs | URL only — retry later |
+| File | Author | License | Pixabay URL |
+|------|--------|---------|-------------|
+| 01-baby.jpg | Ben_Kerckx | Pixabay License (free) | https://pixabay.com/photos/215303/ |
+| 02-ai-generated.jpg | abx84 | Pixabay License (free) | https://pixabay.com/photos/7790569/ |
+| 03-baby.jpg | ddimitrova | Pixabay License (free) | https://pixabay.com/photos/1151351/ |
+| 04-baby.jpg | Anilsharma26 | Pixabay License (free) | https://pixabay.com/photos/7048662/ |
+| 05-toddler.jpg | AlisaDyson | Pixabay License (free) | https://pixabay.com/photos/7747552/ |
+| 06-baby.jpg | bongbabyhousevn | Pixabay License (free) | https://pixabay.com/photos/8056153/ |
+| 07-crying-baby.jpg | amarpreet25 | Pixabay License (free) | https://pixabay.com/photos/2408618/ |
+| 08-balloons.jpg | henleydesignstudio | Pixabay License (free) | https://pixabay.com/photos/4293375/ |
 
-> Run download-images.py to fetch images when Wikimedia rate limit resets.
+> Pixabay License: free for commercial & non-commercial use, no attribution required.

@@ -35,13 +35,15 @@ date: "2026-04-30"
 
 ## Attribution
 
-| File | Author | License | Source URL | Status |
-|------|--------|---------|------------|--------|
-| 01-crying-baby.jpg | — | — | https://commons.wikimedia.org/wiki/Category:Crying_infants | URL only — retry later |
-| 02-burping-shoulder.jpg | — | — | https://commons.wikimedia.org/wiki/Category:Infant_care | URL only — retry later |
-| 03-burping-lap.jpg | — | — | https://commons.wikimedia.org/wiki/Category:Infant_care | URL only — retry later |
-| 04-bicycle-legs.jpg | — | — | https://commons.wikimedia.org/wiki/Category:Infant_care | URL only — retry later |
-| 05-bottle-feeding.jpg | — | — | https://commons.wikimedia.org/wiki/Category:Bottle_feeding | URL only — retry later |
-| 06-gas-drops.jpg | — | — | https://commons.wikimedia.org/wiki/Category:Infant_care | URL only — retry later |
+| File | Author | License | Pixabay URL |
+|------|--------|---------|-------------|
+| 01-father.jpg | PublicDomainPictures | Pixabay License (free) | https://pixabay.com/photos/22194/ |
+| 02-father.jpg | YourKlem | Pixabay License (free) | https://pixabay.com/photos/7601969/ |
+| 03-baby.jpg | PublicDomainPictures | Pixabay License (free) | https://pixabay.com/photos/21249/ |
+| 04-father-and-son.jpg | 1899441 | Pixabay License (free) | https://pixabay.com/photos/1153919/ |
+| 05-father.jpg | PublicDomainPictures | Pixabay License (free) | https://pixabay.com/photos/84639/ |
+| 06-father.jpg | EdgarSax | Pixabay License (free) | https://pixabay.com/photos/6648076/ |
+| 07-family.jpg | smpratt90 | Pixabay License (free) | https://pixabay.com/photos/2610205/ |
+| 08-infant.jpg | 5921373 | Pixabay License (free) | https://pixabay.com/photos/2717347/ |
 
-> Run download-images.py to fetch images when Wikimedia rate limit resets.
+> Pixabay License: free for commercial & non-commercial use, no attribution required.

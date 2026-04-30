@@ -31,15 +31,15 @@ date: "2026-04-30"
 
 ## Attribution
 
-| File | Author | License | Source URL | Status |
-|------|--------|---------|------------|--------|
-| 01-jaundice-newborn.jpg | Dr. Hudson | Public domain | https://commons.wikimedia.org/wiki/File:Jaundice_in_newborn.jpg | ✅ downloaded |
-| 02-jaundice-neonatal.jpg | Muago | CC0 | https://commons.wikimedia.org/wiki/File:Ictericia_neonatal.jpg | ✅ downloaded |
-| 03-jaundice-diagram.png | Manco Capac | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Jaundice.png | URL only — retry later |
-| 04-neonatal-chart.png | Manco Capac | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Neonatal_jaundice.png | URL only — retry later |
-| 05-phototherapy-baby.jpg | Martin Pot | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Jaundice_phototherapy.jpg | URL only — retry later |
-| 06-phototherapy-airforce.jpg | U.S. Air Force / 1st Lt. Emma Quirk | Public domain | https://commons.wikimedia.org/wiki/File:Baby_receives_phototherapy_during_Operation_Allies_Refuge_(6820837).jpg | URL only — retry later |
-| 07-phototherapy-cabinet.jpg | DMontagne | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Cabine_de_photothérapie_fermée.jpg | URL only — retry later |
+| File | Author | License | Pixabay URL |
+|------|--------|---------|-------------|
+| 01-baby.jpg | bongbabyhousevn | Pixabay License (free) | https://pixabay.com/photos/8056153/ |
+| 02-baby.jpg | jelly | Pixabay License (free) | https://pixabay.com/photos/200760/ |
+| 03-newborn.jpg | bongbabyhousevn | Pixabay License (free) | https://pixabay.com/photos/6467761/ |
+| 04-baby.jpg | bongbabyhousevn | Pixabay License (free) | https://pixabay.com/photos/7486419/ |
+| 05-baby.jpg | PublicDomainPictures | Pixabay License (free) | https://pixabay.com/photos/21249/ |
+| 06-baby.jpg | bongbabyhousevn | Pixabay License (free) | https://pixabay.com/photos/8061294/ |
+| 07-baby.jpg | bongbabyhousevn | Pixabay License (free) | https://pixabay.com/photos/7540912/ |
+| 08-newborn.jpg | bongbabyhousevn | Pixabay License (free) | https://pixabay.com/photos/6467762/ |
 
-> Credit all authors in video description when publishing.
-> Images marked "URL only" can be downloaded later when Wikimedia rate limit resets.
+> Pixabay License: free for commercial & non-commercial use, no attribution required.

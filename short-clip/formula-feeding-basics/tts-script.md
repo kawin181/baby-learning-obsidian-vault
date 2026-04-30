@@ -35,13 +35,15 @@ date: "2026-04-30"
 
 ## Attribution
 
-| File | Author | License | Source URL | Status |
-|------|--------|---------|------------|--------|
-| 01-formula-tin.jpg | — | — | https://commons.wikimedia.org/wiki/Category:Infant_formula | URL only — retry later |
-| 02-formula-mixing.jpg | — | — | https://commons.wikimedia.org/wiki/Category:Infant_formula | URL only — retry later |
-| 03-boiling-water.jpg | — | — | https://commons.wikimedia.org/wiki/Category:Boiling_water | URL only — retry later |
-| 04-bottle-feeding-baby.jpg | — | — | https://commons.wikimedia.org/wiki/Category:Bottle_feeding | URL only — retry later |
-| 05-refrigerator-bottle.jpg | — | — | https://commons.wikimedia.org/wiki/Category:Refrigerators | URL only — retry later |
-| 06-formula-stage1.jpg | — | — | https://commons.wikimedia.org/wiki/Category:Infant_formula | URL only — retry later |
+| File | Author | License | Pixabay URL |
+|------|--------|---------|-------------|
+| 01-drinking-milk.jpg | tung256 | Pixabay License (free) | https://pixabay.com/photos/2549021/ |
+| 02-elephants.jpg | 7523944 | Pixabay License (free) | https://pixabay.com/photos/4766559/ |
+| 03-breastmilk-charm-beads.jpg | nikkikamminga | Pixabay License (free) | https://pixabay.com/photos/2491725/ |
+| 04-monkey.jpg | Pavan_gude | Pixabay License (free) | https://pixabay.com/photos/7394077/ |
+| 05-feeding-baby-elephants.jpg | 7523944 | Pixabay License (free) | https://pixabay.com/photos/4734529/ |
+| 06-elephant.jpg | maikebieber | Pixabay License (free) | https://pixabay.com/photos/103588/ |
+| 07-elephants.jpg | 7523944 | Pixabay License (free) | https://pixabay.com/photos/4756614/ |
+| 08-feeding-baby-elephants.jpg | 7523944 | Pixabay License (free) | https://pixabay.com/photos/4734532/ |
 
-> Run download-images.py to fetch images when Wikimedia rate limit resets.
+> Pixabay License: free for commercial & non-commercial use, no attribution required.
