@@ -18,3 +18,6 @@ If Pending is empty, Claude auto-selects topics not already in `wiki/`.
 - ~~Baby Gas & Burping Techniques~~
 - ~~Tummy Time~~
 - ~~Newborn Immunizations~~
+- ~~Newborn Weight Gain & Growth Monitoring~~
+- ~~Formula Feeding Basics~~
+- ~~Baby Crying: Understanding and Soothing~~
